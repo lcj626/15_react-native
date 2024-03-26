@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "chap03_basicComponent",
+			"path": "."
+		},
+		{
+			"name": "image",
+			"path": "../../../../수업자료/00_react_native/react-native/02_Component/01_basicComponent/image"
+		}
+	],
+	"settings": {}
+}
